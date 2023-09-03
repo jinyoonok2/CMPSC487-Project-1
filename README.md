@@ -1,8 +1,7 @@
 # CMPSC487-Project-1
 ## CMPSC487 SunLab Access Database Interaction Project part 1
 
-**Description for how to run the program:**
-_Code was built on Pycharm environment._
+**Code was built on Pycharm IDE.**
 
 ## Getting Started
 

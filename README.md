@@ -8,12 +8,14 @@ _Code was built on Pycharm IDE for Python programming_
 **Python Version: 3.11**
 
 ### 1. Clone the Repository
-#### First, navigate to the directory where you want to store the project. Then, clone the project repository:
+#### First, navigate to the directory where you want to store the project in the terminal. Then, clone the project repository:
 
 ```
 git clone https://github.com/jinyoonok2/CMPSC487-Project-1.git
 cd CMPSC487-Project-1
 ```
+
+#### or you can use github Desktop to alternate this process.
 
 ### 2. Install Dependencies
 #### Make sure you have `pip` (Python package installer) ready. Now, install the necessary packages:

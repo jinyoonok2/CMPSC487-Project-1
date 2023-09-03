@@ -42,9 +42,9 @@ For the user documents you can find them in users.json file in this repository t
 
 ![Description of Image2](images/2.png)
 
-For now, you can use "999999999" for the userId to access the interface since it is the only userId that has userType of "janitor".
+For now, you can use **"999999999"** for the userId to access the interface since it is the only userId that has userType of "janitor".
 
-when the GUI opens, its first interface will ask you the password. The correct password is "jinyoon981023"
+when the GUI opens, its first interface will ask you the password. The correct password is **"jinyoon981023"**
 
 ![Description of Image1](images/3.png)
 
@@ -55,9 +55,9 @@ If the password is invallid, the access will be denied.
 After the login, you will see the database browsing interface. 
 It has Default Start Date, End date, Start time and End Time.
 The default was given to prevent various errors that cause when the program retrieve the information from Mongo DB.
-Start Time and End Time has default of the current time. (If current time is 20:00:00, it will be 20:00:00)
-Start Date has date one week before the current date according to the user's machine environment.
-End Date has date of the current date. (If the current date is 2023/09/02, it will be 2023/09/02)
+Start Time and End Time has default of the **current time**. (If current time is 20:00:00, it will be 20:00:00)
+Start Date has date **one week before the current date** according to the user's machine environment.
+End Date has date of the **current date**. (If the current date is 2023/09/02, it will be 2023/09/02)
 
 ![Description of Image1](images/5.png)
 
